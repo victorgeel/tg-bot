@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is the Louvre Museum famous for?",
+            "options": [
+                "Ancient Egyptian artifacts",
+                "Renaissance paintings",
+                "Impressionist masterpieces",
+                "Asian sculptures"
+            ],
+            "answer": "Asian sculptures"
+        },
+        {
+            "question": "Which artist is known for the painting \"Starry Night\"?",
+            "options": [
+                "Leonardo da Vinci",
+                "Vincent van Gogh",
+                "Pablo Picasso",
+                "Claude Monet"
+            ],
+            "answer": "Vincent van Gogh"
+        },
+        {
+            "question": "In which city is the Uffizi Gallery located?",
+            "options": [
+                "Paris",
+                "Rome",
+                "Florence",
+                "Madrid"
+            ],
+            "answer": "Florence"
+        },
+        {
+            "question": "\"Mona Lisa\" is housed in which museum?",
+            "options": [
+                "The British Museum",
+                "The Metropolitan Museum of Art",
+                "The Vatican Museums",
+                "The Louvre Museum"
+            ],
+            "answer": "The Louvre Museum"
+        },
+        {
+            "question": "Who painted the famous work \"The Persistence of Memory\"?",
+            "options": [
+                "Salvador Dalí",
+                "Rembrandt",
+                "Michelangelo",
+                "Jackson Pollock"
+            ],
+            "answer": "Salvador Dalí"
+        },
+        {
+            "question": "The National Gallery is located in which city?",
+            "options": [
+                "London",
+                "Berlin",
+                "New York",
+                "Amsterdam"
+            ],
+            "answer": "London"
+        },
+        {
+            "question": "Which of the following is a famous sculpture displayed in the Vatican Museums?",
+            "options": [
+                "The Thinker",
+                "David",
+                "Laocoön and His Sons",
+                "The Venus de Milo"
+            ],
+            "answer": "Laocoön and His Sons"
+        },
+        {
+            "question": "Who painted \"The Last Supper\"?",
+            "options": [
+                "Vincent van Gogh",
+                "Leonardo da Vinci",
+                "Pablo Picasso",
+                "Michelangelo"
+            ],
+            "answer": "Leonardo da Vinci"
+        },
+        {
+            "question": "\"Girl with a Pearl Earring\" is a painting by:",
+            "options": [
+                "Johannes Vermeer",
+                "Titian",
+                "Jan van Eyck",
+                "Caravaggio"
+            ],
+            "answer": "Johannes Vermeer"
+        },
+        {
+            "question": "The Museum of Modern Art (MoMA) is located in which city?",
+            "options": [
+                "Paris",
+                "New York",
+                "Madrid",
+                "Tokyo"
+            ],
+            "answer": "New York"
+        }
+    ]
+}

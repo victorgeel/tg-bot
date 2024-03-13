@@ -15,5 +15,5 @@ jobs:
           lfs: true
       - name: Push to hub
         env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_TOKEN: ${{ secrets.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 }}
         run: git push https://victorisgeek:$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@huggingface.co/spaces/victorisgeek/tg-bot main

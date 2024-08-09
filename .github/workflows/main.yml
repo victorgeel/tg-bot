@@ -16,4 +16,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push git remote set-url origin https://victorisgeek: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@huggingface.co/victorisgeek/tg-bot main
+        run: git push https://victorisgeek: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@huggingface.co/victorisgeek/tg-bot main

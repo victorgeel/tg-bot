@@ -15,6 +15,6 @@ jobs:
           lfs: true
       - name: Push to Hugging Face Hub
         env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_TOKEN: ${{ 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 }}
         run: git push https://huggingface.co/spaces/victorisgeek/tg-bot.git main
         
